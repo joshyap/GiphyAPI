@@ -1,0 +1,38 @@
+body {
+	background-image: url(../images/gplaypattern.png);
+	font-family: 'Work Sans', sans-serif;
+	font-weight: bold;
+}
+
+.header {
+	text-align: center;
+	padding-top: 1%;
+}
+
+.content {
+	float:left;
+	padding-left: 3%;
+	width: 73%;
+}
+
+.sidebar {
+	float:right;
+	padding-right: 5%;
+	width: 25%;
+}
+
+.gif {
+	float:left;
+	width: 250px;
+	height: 250px;
+
+}
+
+.buttons {
+	border: solid grey;
+	background-color: #FF4136;
+	padding: 7px;
+	margin: 3px;
+	border-radius: 1px;
+	font-size:12px;
+}
